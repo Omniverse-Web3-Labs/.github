@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/83746881/216771081-64d767c9-27b4-42c3-97e5-d668e40c6b0b.png)
 
-Omniverse DLT is derived from [Dante Network](https://github.com/dantenetwork). The Omniverse DLT is a new **application-level** token protocol running globally **over** multiple existing L1 public chains, enabling asset-related operations such as transfers and receptions running **over** different consensus spaces **synchronously and equivalently**.  
+Omniverse DLT is derived from [Dante Network](https://github.com/dantenetwork). The Omniverse DLT is a new **application-level** token protocol built upon multiple existing L1 public chains, enabling asset-related operations such as transfers and receptions running **over** different consensus spaces **synchronously and equivalently**.  
 
 O-DLT could be considered as a decentralized global ledger established upon two parts:
 - **Abstract Nodes** are smart contracts or similar mechanisms running at the application level over existing blockchains. The states recorded by the Abstract Nodes that are deployed on different blockchains respectively could be considered as copies of the global state, and they are ultimately consistent.
