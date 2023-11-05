@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![image](https://user-images.githubusercontent.com/83746881/216771081-64d767c9-27b4-42c3-97e5-d668e40c6b0b.png)
+![image](https://github.com/Omniverse-Web3-Labs/.github/assets/83746881/58aba3f6-6e15-4328-a2de-f2e38236261f)
 
 The Omniverse DLT is a new **application-level** token protocol built upon multiple existing L1 public chains, enabling asset-related operations such as transfers and receptions running globally **over** different consensus spaces **synchronously and equivalently**.  
 
@@ -21,4 +21,6 @@ O-DLT could be considered as a decentralized global ledger established upon two 
 
 The core meaning of **Omniverse** is that ***The legitimacy of all on-chain states and operations can be equivalently verified and recorded simultaneously over different consensus spaces, regardless of where they were initiated.*** This could be implemented by Verifiable Fraud Proof and ZK-Synchronization. 
 
-O-DLT works at an **application level**, which means everything related is processed in **smart contracts** or **pallets**. **Nothing** relates to the native transactions of a single chain.   
+O-DLT works at an **application** level, which means everything related is implemented by `smart contracts` or similar mechanisms like Substrate `Pallets`, rather than the native transactions of a single chain.     
+
+The `Ordinals` mechanism on `BTC` has been supported recently.
