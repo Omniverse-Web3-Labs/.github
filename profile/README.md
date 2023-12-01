@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![image](https://github.com/Omniverse-Web3-Labs/.github/assets/83746881/e537cc8a-791c-41b8-9fa5-4ae509d4811f)
+![image](https://github.com/Omniverse-Web3-Labs/.github/assets/83746881/a32e4267-53c6-43bd-b70a-cd16c32cb443)
 
 The Omniverse DLT is a new **application-level** token protocol built upon multiple existing L1 public chains, enabling asset-related operations such as transfers and receptions running globally **over** different consensus spaces **synchronously and equivalently**.  
 
